@@ -1,0 +1,15 @@
+# Rust / Cargo build artifacts
+/target/
+Cargo.lock
+
+# Next.js build artifacts and dependencies
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+
+# Local env files
+.env*.local
+
+# OS files
+.DS_Store
+Thumbs.db
